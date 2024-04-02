@@ -12,8 +12,13 @@ Hola, soy Hareigns, estoy interesado en aprender y expandir mis conocimientos en
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hareigns&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hareigns&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hareigns&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+<!-- Top Languages Section -->
+<p align="center">
+  <a href="https://github.com/irvinglink/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irvinglink&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hareigns&icon=9&color=12)](https://visitcount.itsvg.in)
